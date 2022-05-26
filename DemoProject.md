@@ -13,5 +13,3 @@
     -        Thông tin sản phẩm: Tên, số lượng, giá, Mô tả, thông tin bổ sung, đánh giá,...
     -        Tên Cửa Hàng: HDH STORE
     -        Quyền admin: Đây là tài khoản quan trọng nhằm để kiểm tra, thông qua các đơn hàng mà người dùng thực hiện trên web
-    
-
